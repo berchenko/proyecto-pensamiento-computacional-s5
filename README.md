@@ -1,7 +1,7 @@
 # proyecto-pensamiento-computacional-s5
 ## Link de web pública (github pages)
 
-https://berchenko.github.io/sketch-interactivo-alicia/
+https://berchenko.github.io/proyecto-pensamiento-computacional-s5/
 
 ### Título del proyecto
 
