@@ -13,6 +13,7 @@ Alicia en el país de las maravillas, Lewis Carroll 1865
 
 ### Imagen de referencia de proyecto
 
+![](portada.img.png)
 Deja acá una imagen de la "portada" de tu proyecto. Como si fuera un afiche. Puede ser un fotograma de toda la interacción.
 
 ### Integrantes
@@ -28,6 +29,8 @@ https://editor.p5js.org/a.berchenko/sketches/06IpnSfd3
 Alicia está caminando, se cae por un hoyo y pasa a un mundo psicodelico
 
 ### Storyboard
+
+![](storyboard.jpg)
 
 Imágenes del storyboard, las que deben verse acá y estar subidas en el mismo repositorio
 
